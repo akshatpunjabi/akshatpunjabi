@@ -1,4 +1,4 @@
-### Hey, I’m Akshat 👋  
+### Howdy, I’m Akshat 👋  
 I build things that **work smarter, not harder**—whether it's AI, cybersecurity, or cloud-native systems. **Pragmatic computer scientist** by trade, caffeine-powered problem solver by habit.  
 
 💡 **What I do:**  
