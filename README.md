@@ -16,5 +16,4 @@ I build things that **work smarter, not harder**—whether it's AI, cybersecurit
 Python, C++, Java, Swift, TensorFlow, PyTorch, React, Docker, GCP, AWS, and *whatever makes my life easier*.  
 
 💬 Always down to chat about **AI, cybersecurity, high-performance systems, or just random tech rants.**  
-🔗 Check out my work: [akshatpunjabi](https://github.com/akshatpunjabi)  
-📄 Resume: [Link](https://amaranth-benedikta-79.tiiny.site/?mode=suggestions)  
+🔗 Check out my credentials: [Resume](https://amaranth-benedikta-79.tiiny.site/?mode=suggestions)  
