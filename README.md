@@ -7,7 +7,7 @@ I build things that **work smarter, not harder**—whether it's AI, cybersecurit
 - Occasionally break things just to put them back together *better* (it's science, I promise)  
 
 🚀 **Past Lives:**  
-- Co-founded **Aissential**, where we build AI agents for education, media, and enterprise—because not everything should need a human in the loop 🧠  
+- Co-founded [**Aissential**](https://aissential.ai/), where we build AI agents for education, media, and enterprise—because not everything should need a human in the loop 🧠  
 - Created a **Virtual Teaching Assistant** approved by **Boston University**—yes, the robots *are* taking over 🤖  
 - Designed a **blockchain-powered fundraising platform** that won **TAMUhack X 2024** 🏆  
 - Interned at **Oracle**, fixing bugs, optimizing APIs, and making BI services less of a headache  
